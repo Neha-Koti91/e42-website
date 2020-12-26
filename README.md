@@ -16,7 +16,7 @@ Step 2: Go to any drive say, e drive and create enhance42 folder. and type the b
             - $ git config --global user.email
                It should display your given mail id.
 
-![Example Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw3xOCzY6KSjgQ4xmoTbxynV&ust=1609069961426000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC4ye7K6-0CFQAAAAAdAAAAABAD)
+![Example Screenshot](https://octodex.github.com/images/bannekat.png)
 
  
 
