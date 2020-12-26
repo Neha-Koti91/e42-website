@@ -1,14 +1,24 @@
-# Problem Solving with Python Website
+# How to Configure Git
 
-This website contains all **materials and data related to this subject.**
+**Follow the steps below to configure git**
 
 
-already seen website  
-The steps that we followed are: E42: The steps we did...
-- open Git Bash
-- change directory to the folder you created enahnce42
-- create a directory e42-website using mkdir
-- change directory to e42-website
-- do git init
-- check with git status
-- create file README.md with touch command 
+Step 1: Open git bash
+Step 2: Go to any drive say, e drive and create enhance42 folder. and type the below commands:
+         - $ git
+         - $ git config --global user.name "Your Name"
+           To check whether it is created correctly or not type as below:
+            -  $git config --global user.name
+               It should display your given name.
+         Configuring mail:
+         - git config --global user.email "yourmailid"
+            To check whether it is done correctly or not type as below:
+            - $ git config --global user.email
+               It should display your given mail id.
+
+![Example Screenshot](https://drive.google.com/file/d/1Gy1eKkXjRyKl8hQ2h-cgvTuGIgyGiZF4/view?usp=sharing)
+
+ 
+
+
+
