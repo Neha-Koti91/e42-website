@@ -1,47 +1,28 @@
-# How to Configure Git
+# Basic Unix Commands used in Git
 
-**_Follow the steps below to configure git_**
+**1. mkdir**
 
-**bold text**
+It is used to create directory.  
+_Syntax:_ $mkdir name 
+_Example:_ $mkdir sample   
 
-_Italic text_
+![Figure1:mkdir](fig1-mkdir.JPG)
 
+**2. cd (change directory)**  
+It is used to change the directory from one directory to other.  
+_Syntax:_ $cd directoryname
+_Example:_ $cd sample  
 
-Step 1: Open git bash
+![Figure2:cd](fig2-cd.JPG)
 
-Step 2: Go to any drive say, e drive and create enhance42 folder. and type the below commands:
+**3. pwd**  
+It displays the present working directory in which user is.  
+_Syntax:_ $pwd
+_Example:_ $pwd  
 
-![Figure1](fig1.JPG)
-
-
-
-- $ git
-- $ git config --global user.name "Your Name"
-
-To check whether it is created correctly or not type as below:
-
-- $git config --global user.name
-
-            It should display your given name.
-
- Configuring mail:
-
-- git config --global user.email "yourmailid"
-
-To check whether it is done correctly or not type as below:
-
-- $git config --global user.email
-
-            It should display your given mail id.
-
-[document link](https://drive.google.com/file/d/1PuG5hLw0BJINd0k4cZolf9O6sGDcaLMO/view?usp=sharing)
-
-sample Image:
-
-![Example Screenshot](https://octodex.github.com/images/bannekat.png)
+![Figure3:pwd](fig3-pwd.JPG)  
 
 
- 
-
+[Day1:ommands document link](https://drive.google.com/file/d/1PuG5hLw0BJINd0k4cZolf9O6sGDcaLMO/view?usp=sharing)
 
 
