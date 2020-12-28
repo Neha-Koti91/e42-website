@@ -23,6 +23,5 @@ _Example:_ $pwd
 ![Figure3:pwd](fig3-pwd.JPG)  
 
 
-[Day1:ommands document link](https://drive.google.com/file/d/1PuG5hLw0BJINd0k4cZolf9O6sGDcaLMO/view?usp=sharing)
 
 
