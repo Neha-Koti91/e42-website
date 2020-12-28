@@ -30,9 +30,12 @@ To check whether it is done correctly or not type as below:
 
             It should display your given mail id.
 
+[document link](https://drive.google.com/file/d/1PuG5hLw0BJINd0k4cZolf9O6sGDcaLMO/view?usp=sharing)
+
+sample Image:
+
 ![Example Screenshot](https://octodex.github.com/images/bannekat.png)
 
-[document link](https://drive.google.com/file/d/1dwUoTGCPA9Rdw2DUHtGklFrP2mG32-Xo/view?usp=sharing)
 
  
 
