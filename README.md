@@ -11,6 +11,10 @@ Step 1: Open git bash
 
 Step 2: Go to any drive say, e drive and create enhance42 folder. and type the below commands:
 
+![Figure1](fig1.JPG)
+
+
+
 - $ git
 - $ git config --global user.name "Your Name"
 
